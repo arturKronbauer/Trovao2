@@ -33,41 +33,78 @@ Crie todos os construtores necessários para as classes, gets e sets e toString 
 Exemplo de Interação
 
 Informe o número de mídias: 3
+
 *** Dados da Mídia 1 ***
+
 Qual o tipo (1)Livro (2)Revista: 2
+
 Informe o título: ACM
+
 Informe o ano de publicação: 2023
+
 Qual o número de edição da revista: 4
+
 *** Dados da Mídia 2 ***
+
 Qual o tipo (1)Livro (2)Revista: 1
+
 Informe o título: Java como programar
+
 Informe o ano de publicação: 2017
+
 Informe o ISBN: 1234
+
 Informe o número de autores: 2
+
 Informe o nome do Autor 1: Suzana Daitel
+
 Informe a data de nascimento: 24/05/1980
+
 Informe o nome do Autor 2: Mario Daitel
+
 Informe a data de nascimento: 27/08/1978
+
 *** Dados da Mídia 3 ***
+
 Qual o tipo (1)Livro (2)Revista: 2
+
 Informe o título: Tecnologia
+
 Informe o ano de publicação: 2022
+
 Qual o número de edição da revista: 1
+
 *** Acervo da Biblioteca ***
+
 Título = ACM 
+
 Ano Publicação = 2023
+
 Número da Edição = 4
+
 ----------
+
 Título = Java como programar 
+
 Ano Publicação = 2017
+
 Autores: 
+
 Suzana Daitel 
+
 Mario Daitel 
+
 ----------
+
 Título = Tecnologia 
+
 Ano Publicação = 2022
+
 Número da Edição = 1
+
 ----------
+
 Qual o título a ser pesquisado: programar
+
 Título: Java como programar
 
